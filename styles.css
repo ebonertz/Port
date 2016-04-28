@@ -312,10 +312,15 @@ header.smaller #right_header {
 
 a {
 	text-decoration: none;
+	color: rgb(18, 156, 219);
 }
 
 a:hover {
-	font-weight: bold;
+	text-decoration: underline;
+}
+
+ a:visited {
+    color: rgb(18, 156, 219);
 }
 
 .container {
@@ -426,18 +431,7 @@ a:hover {
 	margin-bottom: 4px;
 }
 
-/*Skills section */
 
-
-a {
-    text-decoration: none;
-}
-a:hover {
-    text-decoration: underline;
-}
- a:visited {
-    color: rgb(18, 156, 219);
-}
 
 /*Projects Section */
 
