@@ -607,6 +607,9 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 	display: inline;
 }
 
+
+
+
 @media all and (max-width: 1500px) {
 	header #left_header {
 		display: block;
@@ -616,6 +619,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 		line-height: 100px;
 		text-align: center;
 	}
+}
 
 		header #left_header:hover  {
 			text-decoration: none;
@@ -677,7 +681,9 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 	}
 }
 
-@media all and (max-width: 900px) {
+
+
+@media all and (max-width: 1000px) {
 	.button{
 		width:58px;
 		height:46px;
