@@ -91,16 +91,16 @@ section {
 }
 
 .hero p {
-	font-weight: 400;
+	font-weight: 200;
 	padding-left: 5%;
 	padding-right: 5%;
-	font-size: 50px;
+	font-size: 40px;
 	font-weight: bold;
-	color: #27292E;
+	color: rgb(18, 156, 219);
 	border-style: solid;
+	border-color: #555;
 	display: inline-block;
 	background: rgba(255, 255, 255, 0.25);
-    border: 2px solid #555;
 }
 
 .scroll-down {

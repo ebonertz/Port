@@ -1,3 +1,9 @@
+    // var textToShow = ['Welcome', 'Bienvenidos', 'Bonjour', 'Benvindo']
+    // $(document).ready(function() {
+    //     $("p").html(textToShow[Math.floor(Math.random()*textToShow.length)]);
+    // });
+
+
 ( function( window ) {
 
 'use strict';
