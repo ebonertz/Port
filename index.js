@@ -1,7 +1,7 @@
-    // var textToShow = ['Welcome', 'Bienvenidos', 'Bonjour', 'Benvindo']
-    // $(document).ready(function() {
-    //     $("p").html(textToShow[Math.floor(Math.random()*textToShow.length)]);
-    // });
+    var textToShow = ['Welcome', 'Bienvenidos', 'Bonjour', 'Bem-vindo']
+    $(document).ready(function() {
+        $("h6").html(textToShow[Math.floor(Math.random()*textToShow.length)]);
+    });
 
 
 ( function( window ) {
