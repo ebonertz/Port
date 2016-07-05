@@ -316,7 +316,8 @@ a {
 }
 
 a:hover {
-	text-decoration: underline;
+	text-decoration: none;
+	font-weight: bolder;
 }
 
  a:visited {
@@ -401,7 +402,7 @@ a:hover {
 #edu_left h5 {
 	font-size: 15px;
 	font-weight: lighter;
-	color: rgb(18, 156, 219);
+	color: white;
 	margin-top: 4px;
 }
 
@@ -419,14 +420,14 @@ a:hover {
 #edu_right h5 {
 	font-size: 16px;
 	font-weight: lighter;
-	color: rgb(18, 156, 219);
+	color: white;
 	margin-top: 4px;
 }
 
 #edu_right h4 {
 	font-size: 16px;
 	font-weight: lighter;
-	color: rgb(18, 156, 219);
+	color: white;
 	margin-top: 0px;
 	margin-bottom: 4px;
 }
